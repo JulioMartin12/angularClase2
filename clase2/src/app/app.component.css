@@ -1,0 +1,23 @@
+.toolbar{
+background-color: lightseagreen;
+height: 5rem;
+display: flex;
+align-items: center;
+}
+
+a{
+font-size: 35px;
+margin-left: 30px;
+text-decoration: none;
+color: white;
+}
+
+.content{
+  text-align: center;
+}
+
+.selected {
+    text-decoration: underline;
+    color: violet;
+}
+
